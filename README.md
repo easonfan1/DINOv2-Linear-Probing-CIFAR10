@@ -23,5 +23,14 @@ pip install torch torchvision transformers scikit-learn tqdm matplotlib
 git clone https://github.com/easonfan1/DINOv2-Linear-Probing-CIFAR10.git
 cd DINOv2-Linear-Probing-CIFAR10
 ```
-2. **Run the training script**:
+2. **Install Jupyter Notebook (if not already installed)**:
 ```
+pip install notebook
+```
+3. **Run the Jupyter Notebook**:
+```
+jupyter notebook DINOv2-Linear-Probing-CIFAR10.ipynb
+
+```
+  - This will open the Jupyter Notebook in your browser.
+  - Run all the cells in the notebook to execute the training process.
