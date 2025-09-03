@@ -56,3 +56,18 @@ Test Set Predictions:
 
 <img width="1023" height="314" alt="截屏2025-09-03 下午10 05 48" src="https://github.com/user-attachments/assets/2f6a36a4-28f2-4743-9ddc-040bff9c4d95" />
 
+## Conclusion
+
+The project demonstrates the potential of self-supervised learning and transfer learning, where pre-trained models can be adapted for new tasks with minimal labeled data.
+
+## Future Work
+
+  - Fine-tune the entire DINOv2 model for better performance.
+  - Experiment with data augmentation techniques to improve generalization.
+
+## References
+
+  - DINOv2: facebook/dinov2-small. "Vision Transformer (small-sized model) trained using DINOv2" https://huggingface.co/facebook/dinov2-small
+  - CIFAR-10 Dataset: Alex Krizhevsky, Geoffrey Hinton. "Learning Multiple Layers of Features from Tiny Images." https://www.cs.toronto.edu/~kriz/cifar.html?utm_source=chatgpt.com
+  - Hugging Face Transformers: Hugging Face. "Transformers Library." https://huggingface.co/docs/transformers/index 
+
