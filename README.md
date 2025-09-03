@@ -39,3 +39,20 @@ jupyter notebook DINOv2-Linear-Probing-CIFAR10.ipynb
   - The trained model weights are saved as ```linear_head.pth.```
 
   - The training and testing metrics are saved ```in metrics.json.```
+
+## Results
+
+  - Training Accuracy: ~97.5% after 5 epochs.
+
+  - Test Accuracy: ~95% after 5 epochs.
+
+## Example Predictions
+
+Train Set Predictions:
+
+<img width="1184" height="362" alt="截屏2025-09-03 下午9 20 31" src="https://github.com/user-attachments/assets/e30318ea-9185-4d1e-9cf7-145d18b9ebf1" />
+
+Test Set Predictions:
+
+<img width="1023" height="314" alt="截屏2025-09-03 下午10 05 48" src="https://github.com/user-attachments/assets/2f6a36a4-28f2-4743-9ddc-040bff9c4d95" />
+
