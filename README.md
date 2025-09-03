@@ -1,9 +1,9 @@
 # DINOv2 Linear Probing for CIFAR-10 Classification
 
-This project demonstrates the use of the **DINOv2** (Self-Supervised Vision Transformer) model for image classification on the **CIFAR-10** dataset using **linear probing**.
+This project demonstrates the use of the DINOv2 (Self-Supervised Vision Transformer) model for image classification on the CIFAR-10 dataset using **linear probing**.
 
 ## Objective
-The goal of this project is to apply **self-supervised learning** using DINOv2 to perform **image classification** with minimal labeled data. The DINOv2 backbone is used as a feature extractor, and a **linear classifier head** is trained to classify images into one of the 10 CIFAR-10 categories.
+The goal of this project is to apply self-supervised learning** using DINOv2 to perform image classification** with minimal labeled data. The DINOv2 backbone is used as a feature extractor, and a linear classifier head** is trained to classify images into one of the 10 CIFAR-10 categories.
 
 ## Project Overview
 - **Model**: DINOv2 (Self-Supervised Vision Transformer)
