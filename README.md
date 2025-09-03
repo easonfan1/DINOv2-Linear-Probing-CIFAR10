@@ -19,7 +19,9 @@ pip install torch torchvision transformers scikit-learn tqdm matplotlib
 ```
 ## Usage
 1. **Clone this repository**:
-   ```
-   git clone https://github.com/yourusername/DINOv2-Linear-Probing-CIFAR10.git
-   cd DINOv2-Linear-Probing-CIFAR10
-   ```
+```
+git clone https://github.com/easonfan1/DINOv2-Linear-Probing-CIFAR10.git
+cd DINOv2-Linear-Probing-CIFAR10
+```
+2. **Run the training script**:
+```
