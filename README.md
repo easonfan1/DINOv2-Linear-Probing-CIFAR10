@@ -34,3 +34,6 @@ jupyter notebook DINOv2-Linear-Probing-CIFAR10.ipynb
 ```
   - This will open the Jupyter Notebook in your browser.
   - Run all the cells in the notebook to execute the training process.
+4. **Model Weights and Results**:
+  -The trained model weights are saved as ```linear_head.pth.```
+  -The training and testing metrics are saved ```in metrics.json.```
