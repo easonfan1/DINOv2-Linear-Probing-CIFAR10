@@ -1,4 +1,3 @@
-# DINOv2-Linear-Probing-CIFAR10
 # DINOv2 Linear Probing for CIFAR-10 Classification
 
 This project demonstrates the use of the **DINOv2** (Self-Supervised Vision Transformer) model for image classification on the **CIFAR-10** dataset using **linear probing**.
