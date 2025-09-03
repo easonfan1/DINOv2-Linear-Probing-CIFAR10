@@ -42,9 +42,11 @@ jupyter notebook DINOv2-Linear-Probing-CIFAR10.ipynb
 
 ## Results
 
-  - Training Accuracy: ~97.5% after 5 epochs.
+  - Training Accuracy: ~98% after 5 epochs.
 
   - Test Accuracy: ~95% after 5 epochs.
+
+<img width="587" height="429" alt="截屏2025-09-03 下午10 09 45" src="https://github.com/user-attachments/assets/b0db6e39-3b63-43f3-8b7b-222e7ab995e1" />
 
 ## Example Predictions
 
