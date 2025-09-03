@@ -13,5 +13,13 @@ The goal of this project is to apply **self-supervised learning** using DINOv2 t
 
 ## Requirements
 To run this project, you need to install the following dependencies:
-```bash
+```
 pip install torch torchvision transformers scikit-learn tqdm matplotlib
+
+```
+## Usage
+1. **Clone this repository**:
+   ```
+   git clone https://github.com/yourusername/DINOv2-Linear-Probing-CIFAR10.git
+   cd DINOv2-Linear-Probing-CIFAR10
+   ```
